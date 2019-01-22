@@ -31,7 +31,7 @@ import { AboutStComponent } from './about/about-st.component';
     HttpClientModule,
     RouterModule.forRoot([
       {path: 'products', component: ProductListComponent },
-      {path: 'products/:id', component: ProductDetailComponent },
+      {path: 'productdetail', component: ProductDetailComponent },
       {path: 'welcome', component: WelcomeComponent },
       {path: 'about', component: AboutStComponent },
       {path: '', redirectTo:'welcome', pathMatch: 'full'},

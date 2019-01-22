@@ -63,5 +63,28 @@
     "price":99.00,
     "popularity": 5
 
- }
+ },
+ {
+   "productId": 7,
+   "productType":"6 inch Bulb Squid Wide Tracker",
+   "productCode":"STSB-WT-6-bulb",
+   "productMaterial":"Bulb Squid",
+   "description":"Sterling Tackle Wide Tracker. 6 inch Bulb Squid Series",
+   "imageUrl":"https://static.wixstatic.com/media/50bf56_c9beaf78c8394cff8b1f95d527f3d624~mv2.jpg/v1/fill/w_331,h_750,q_85,usm_0.66_1.00_0.01/50bf56_c9beaf78c8394cff8b1f95d527f3d624~mv2.webp",
+   "price":99.00,
+   "popularity": 4.5
+
+},
+{
+   "productId": 8,
+   "productType":"9 inch Machine Wide Tracker",
+   "productCode":"STSB-WT-9-mach",
+   "productMaterial":"Machine",
+   "description":"Sterling Tackle Wide Tracker. 9 inch Machine Series",
+   "imageUrl":"https://static.wixstatic.com/media/50bf56_052f9736ad904dfbaf9576c69f74fce0~mv2_d_1922_3776_s_2.jpg/v1/fill/w_382,h_750,q_85,usm_0.66_1.00_0.01/50bf56_052f9736ad904dfbaf9576c69f74fce0~mv2_d_1922_3776_s_2.webp",
+   "price":120.00,
+   "popularity": 5
+
+}
+
 ]
