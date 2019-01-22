@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
     {
         "productId": 1,
@@ -88,72 +87,4 @@
 
 }
 
-=======
-[
-    {
-        "productId": 1,
-            "productType": "36-9 Machine Bar ",
-            "productCode": "STSB-36-9-Green-Mach",
-            "productMaterial": "Machine",
-            "description": "Sterling Tackle Classic 36 inch spreader bar with 9 inch machine teasers",
-            "imageUrl": "https://static.wixstatic.com/media/50bf56_a9b2c0d2fd934edcb7e6e28cdaa79b71.jpg/v1/fill/w_269,h_495,q_85,usm_0.66_1.00_0.01/50bf56_a9b2c0d2fd934edcb7e6e28cdaa79b71.webp",
-            "price":99.00,
-            "popularity": 5
-    },
-{
-    "productId": 2,
-    "productType":"36-6 Machine Bar",
-    "productCode":"STSB-36-6-pb-Mach",
-    "productMaterial":"Machine",
-    "description":"Sterling Tackle Classic 36 inch spreader bar with 6 inch machine teasers",
-    "imageUrl":"https://static.wixstatic.com/media/50bf56_19b64010041444ef807b488575b239fa.jpg/v1/fill/w_371,h_750,q_85,usm_0.66_1.00_0.01/50bf56_19b64010041444ef807b488575b239fa.webp",
-    "price":99.00,
-    "popularity":4 
-
- },
- {
-    "productId": 3,
-    "productType":"Chaos Bar",
-    "productCode":"STSB-36-9-glow-chaos",
-    "productMaterial":"Bulb Squid",
-    "description":"Sterling Tackle 36 inch Chaos bar with bulb squid(rattles) and 9 inch soft birds",
-    "imageUrl":"https://static.wixstatic.com/media/50bf56_77904c5c6acb4d00b89fa0cddea0caa6~mv2.jpg/v1/fill/w_388,h_750,q_85,usm_0.66_1.00_0.01/50bf56_77904c5c6acb4d00b89fa0cddea0caa6~mv2.webp",
-    "price":95.00,
-    "popularity": 3
-
- },
- {
-    "productId": 4,
-    "productType":"18 Inch Bulb Squid Spreader Bar",
-    "productCode":"STSB-18-6-zuc-bulb",
-    "productMaterial":"Bulb Squid",
-    "description":"Sterling Tackle 18 inch spreader bar with bulb squid",
-    "imageUrl":"https://static.wixstatic.com/media/50bf56_25418e86a6d02695f09630d15fe79e39.jpg/v1/fill/w_419,h_750,q_85,usm_0.66_1.00_0.01/50bf56_25418e86a6d02695f09630d15fe79e39.webp",
-    "price":45.00,
-    "popularity": 2
-
- },
- {
-    "productId": 5,
-    "productType":"42 inch Spreader Bar",
-    "productCode":"STSB-42-12-gr-mach",
-    "productMaterial":"Machines",
-    "description":"Sterling Tackle 42 inch Spreader Bar with 12 inch Machines",
-    "imageUrl":"https://static.wixstatic.com/media/50bf56_b41d49ae937b0cb60b26c86a3c94cbff.jpg/v1/fill/w_315,h_639,q_85,usm_0.66_1.00_0.01/50bf56_b41d49ae937b0cb60b26c86a3c94cbff.webp",
-    "price":125.00,
-    "popularity": 3
-
- },
- {
-    "productId": 6,
-    "productType":"9 inch Bulb Squid Wide Tracker",
-    "productCode":"STSB-WT-9-bulb",
-    "productMaterial":"Bulb Squid",
-    "description":"Sterling Tackle Wide Tracker. 9 inch Bulb Squid Series",
-    "imageUrl":"https://static.wixstatic.com/media/50bf56_7a2973be6cf04f0782f4ead70e461007~mv2.jpg/v1/fill/w_325,h_750,q_85,usm_0.66_1.00_0.01/50bf56_7a2973be6cf04f0782f4ead70e461007~mv2.webp",
-    "price":99.00,
-    "popularity": 5
-
- }
->>>>>>> 1e628ebbcf0564cb5fa67c76ae7a5a17fa410d91
 ]

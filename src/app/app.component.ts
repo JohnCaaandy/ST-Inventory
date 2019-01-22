@@ -8,13 +8,8 @@ import { Component } from '@angular/core';
   <ul class= 'nav nav-pills'>
   <li><a class= 'nav-link'[routerLink]="['/welcome']">Home</a></li>
   <li><a class='nav-link'[routerLink]="['/products']">Product List</a></li>
-<<<<<<< HEAD
-  <li><a class= 'nav-link'[routerLink]="['/productdetails']">Product Details</a></li>
+  <li><a class= 'nav-link'[routerLink]="['/productdetail']">Product Details</a></li>
   <li><a class='nav-link'[routerLink]="['/about']">About Sterling Tackle</a></li>
-  
-=======
-  <li><a class='nav-link'[routerLink]="['/about']">About Sterling Tackle</a></li>
->>>>>>> 1e628ebbcf0564cb5fa67c76ae7a5a17fa410d91
   </ul>
   </nav>
   <div class='container'>
